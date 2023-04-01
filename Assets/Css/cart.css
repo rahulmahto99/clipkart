@@ -1,0 +1,29 @@
+.bread-navigation {
+    background-color: rgb(187, 177, 177);
+    padding: 80px 0;
+
+}
+
+.bread-h1 {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+.bread-h2 {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+
+.bread-h2 a {
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+
+.bread-h3 {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
